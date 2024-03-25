@@ -27,7 +27,7 @@
   }
 
   button{
-    @apply px-4 py-2 border bg-gradient-to-r from-[var(--primary-dark)] to-[var(--primary-light)] text-white
+    @apply px-4 py-2 border-none bg-gradient-to-r from-[var(--primary-dark)] to-[var(--primary-light)] text-white rounded-lg
   }
 
   h2{
